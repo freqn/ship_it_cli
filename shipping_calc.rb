@@ -80,7 +80,4 @@ def try_again
   end
 end
 
-
-
-
 main_menu
